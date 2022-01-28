@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrewKakinda
+- 👋 Hi, I’m Andrew Kakinda
 - 👀 I’m interested in web development, specifically backend development
 - 🌱 I’m currently learning javascript, nodejs, React 
 - 💞️ I’m looking to collaborate on open source projects
